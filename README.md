@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! Я Вика 👋
 
-<!--
-**avoltayd/avoltayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий аналитик, активно развиваюсь в сфере анализа данных и работы с БД.
 
-Here are some ideas to get you started:
+### Мой стек технологий:
+- **Языки и библиотеки:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Базы данных:** SQL
+- **Инструменты:** Jupyter Notebook, MS Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мои проекты:
+### [Анализ оттока игроков и падения внутриигровой выручки](https://github.com/avoltayd/game-churn-analysis)
+
+### Как со мной связаться:
+- Telegram: [@avoltayd](https://t.me/avoltayd)
+- Email: avoltayd@yandex.ru
+
+
