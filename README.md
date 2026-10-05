@@ -1,17 +1,36 @@
 # Привет! Я Вика 👋
 
-Я начинающий аналитик, активно развиваюсь в сфере анализа данных и работы с БД.
+Я аналитик, развиваюсь в области анализа данных и продуктовой аналитики.
 
-### Мой стек технологий:
-- **Языки и библиотеки:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Базы данных:** SQL
-- **Инструменты:** Jupyter Notebook, MS Excel
+### Мой стек
 
-### Мои проекты:
-### [Анализ оттока игроков и падения внутриигровой выручки](https://github.com/avoltayd/game-churn-analysis)
+**SQL:** PostgreSQL, JOIN, CTE, оконные функции, CASE, GROUP BY, агрегатные функции
 
-### Как со мной связаться:
-- Telegram: [@avoltayd](https://t.me/avoltayd)
-- Email: avoltayd@yandex.ru
+**Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels
+
+**Excel:** сводные таблицы, ВПР, XLOOKUP, формулы, Power Query
+
+**BI:** Power BI
+
+**Инструменты:** Jupyter Notebook, Git, GitHub
+
+
+### Проекты
+
+#### [Анализ оттока игроков и падения внутриигровой выручки](https://github.com/avoltayd/game-churn-analysis)
+
+Исследование причин снижения выручки и оттока игроков с использованием SQL/Python и анализа пользовательских данных.
+
+### Сейчас изучаю
+
+* статистику и методы статистического анализа;
+* применение статистики в продуктовой аналитике;
+* развитие навыков работы с данными и построения аналитических решений.
+
+### Как со мной связаться
+
+* Telegram: [@avoltayd](https://t.me/avoltayd)
+* Email: [avoltayd@yandex.ru](mailto:avoltayd@yandex.ru)
+
 
 
