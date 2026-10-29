@@ -12,7 +12,7 @@
 
 ## Главный проект - MetricWay
 
-**MetricWay** — аналитический сервис для владельцев Telegram-ботов.
+**MetricWay** - аналитический сервис для владельцев Telegram-ботов.
 
 [**metricway.tech**](https://metricway.tech/) · [**metricway-sdk**](https://github.com/urlifeceo/metricway-sdk)
 
