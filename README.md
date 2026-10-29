@@ -57,7 +57,7 @@
 
 ## Контакты
 
-[Telegram: @avoltayd](https://t.me/avoltayd) · [Email: avoltayd@yandex.ru](mailto:avoltayd@yandex.ru)
+[Telegram: @avoltayd](https://t.me/avoltayd) · [Email: avoltayd.26@gmail.com](mailto:avoltayd.26@gmail.com)
 
 
 
